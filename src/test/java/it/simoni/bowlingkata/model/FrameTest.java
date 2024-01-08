@@ -1,4 +1,4 @@
-package it.euris.bowlingkata.model;
+package it.simoni.bowlingkata.model;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

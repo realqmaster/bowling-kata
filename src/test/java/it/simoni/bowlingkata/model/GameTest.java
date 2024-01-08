@@ -1,4 +1,4 @@
-package it.euris.bowlingkata.model;
+package it.simoni.bowlingkata.model;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -49,7 +49,7 @@ class GameTest {
   }
 
   @Test
-  @DisplayName("A strike and two single points should yeld 14 score")
+  @DisplayName("A strike and two single points should yield 14 score")
   void if_strike_and_two_single_points_should_yield_14_score() {
     Game game = new Game();
     game.roll(10);

@@ -1,4 +1,4 @@
-package it.euris.bowlingkata.model;
+package it.simoni.bowlingkata.model;
 
 import java.util.ArrayList;
 import java.util.List;

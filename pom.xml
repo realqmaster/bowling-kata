@@ -9,7 +9,7 @@
     <version>3.2.1</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>it.euris</groupId>
+  <groupId>it.simoni</groupId>
   <artifactId>bowling-kata</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>bowling-kata</name>
